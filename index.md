@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tooba's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tooba Mukhtar
+Data Scientist
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
